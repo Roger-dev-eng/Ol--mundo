@@ -1,10 +1,26 @@
-# Olá mundo
- Primeiro projeto no github
-Feito em um curso de extenção na Universidade Santo Agostinho
-Professor: Anderson Soares Costa
+# Markdown
+![download](https://github.com/user-attachments/assets/db2631c9-bd88-4213-9a37-170bd040c6ef)  
+Como aluno do 1° período da Universidade Santo Agostinho cursando Engenharia de Software, este é o meu primeiro projeto no github :computer: feito em um curso de extenção administrado pelo professor Anderson Soares Costa.
 
-Roger Oliveira Feitosa
-Idade: 18 anos
-**:telephone_receiver:** (89) 981127899
+# :closed_book: O que foi aprendido?
+***
+- Introdução ao Git e GitHub
+- Configurações iniciais
+- Fundamentos iniciais
+- GitHub e repositórios remotos
+- Markdown
 
-**:wave:**
+# :keyboard: Ferramentas utilizadas
+***
+- GitHub Desktop
+- Git
+- VS Code
+
+# :bust_in_silhouette: Informações adicionais
+***
+- Nome: Roger oliveira Feitosa
+- Idade: 18 anos
+- :telephone_receiver: (89)981127899
+
+
+# :wave:
